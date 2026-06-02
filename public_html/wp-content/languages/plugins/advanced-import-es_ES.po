@@ -1,0 +1,599 @@
+# Translation of Plugins - Advanced Import: One-Click Demo Import for WordPress - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Advanced Import: One-Click Demo Import for WordPress - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-12-29 19:45:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.3\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Advanced Import: One-Click Demo Import for WordPress - Stable (latest release)\n"
+
+#. translators: %s is the plugin name.
+#: includes/functions-advanced-import.php:349
+msgid "Plugin \"%s\" installed and activated successfully."
+msgstr "El plugin «%s» ha sido instalado y activado correctamente."
+
+#. translators: %1$s is the plugin name, %2$s is error message
+#: includes/functions-advanced-import.php:255
+#: includes/functions-advanced-import.php:266
+#: includes/functions-advanced-import.php:277
+#: includes/functions-advanced-import.php:297
+msgid "Error installing plugin \"%1$s\": %2$s"
+msgstr "Error al instalar el plugin «%1$s»: %2$s"
+
+#. translators: %1$s is the plugin name, %2$s is error message
+#: includes/functions-advanced-import.php:235
+msgid "Error retrieving information for plugin \"%1$s\": %2$s"
+msgstr "Error al recuperar la información del plugin «%1$s»: %2$s"
+
+#. translators: %s is the plugin name.
+#: includes/functions-advanced-import.php:210
+msgid "You don't have permission to install the plugin \"%s\"."
+msgstr "No tienes permisos para instalar el plugin «%s»."
+
+#. translators: %s is the plugin name.
+#: includes/functions-advanced-import.php:197
+#: includes/functions-advanced-import.php:338
+msgid "You don't have permission to activate the plugin \"%s\"."
+msgstr "No tienes permisos para activar el plugin «%s»."
+
+#. translators: %s is the plugin name.
+#: includes/functions-advanced-import.php:187
+#: includes/functions-advanced-import.php:311
+msgid "Plugin \"%s\" activated successfully."
+msgstr "El plugin «%s» ha sido activado correctamente."
+
+#. translators: %1$s is the plugin name, %2$s is error message
+#: includes/functions-advanced-import.php:175
+#: includes/functions-advanced-import.php:326
+msgid "Error activating plugin \"%1$s\": %2$s"
+msgstr "Error al activar el plugin «%1$s»: %2$s"
+
+#. translators: %s is the plugin name
+#: includes/functions-advanced-import.php:143
+#: includes/functions-advanced-import.php:160
+msgid "Plugin \"%s\" is already active."
+msgstr "El plugin «%s» ya está activo."
+
+#. translators: %s the plugin info
+#: includes/functions-advanced-import.php:120
+msgid "Not enough information about plugin. Plugin info %s"
+msgstr "No hay suficiente información acerca del plugin. Información del plugin %s"
+
+#: includes/class-advanced-import-cron.php:47
+msgid "Once Weekly"
+msgstr "Una vez a la semana"
+
+#: admin/class-advanced-import-tracking.php:520
+msgid "Do not allow"
+msgstr "No permitir"
+
+#: admin/class-advanced-import-tracking.php:517
+msgid "Allow"
+msgstr "Permitir"
+
+#. Translators: %1$s current user display name.
+#: admin/class-advanced-import-tracking.php:506
+msgid "Howdy, %1$s! Allow Advanced Import to anonymously track how this plugin is used and help us make the plugin better. No sensitive data is tracked."
+msgstr "¡Hola, %1$s! Permite que Advanced Import rastree de forma anónima cómo se utiliza este plugin y ayúdanos a mejorarlo. No se rastrea ningún dato sensible."
+
+#: admin/class-advanced-import-admin.php:2828
+msgid "Allow Track"
+msgstr "Permitir el seguimiento"
+
+#: admin/class-advanced-import-admin.php:2824
+msgid "<strong>Allow Track</strong>"
+msgstr "<strong>Permitir el seguimiento</strong>"
+
+#: admin/class-advanced-import-admin.php:356
+msgid "Resetting! Starting WordPress in Default Mode."
+msgstr "¡Restableciendo! Iniciando WordPress en modo por defecto."
+
+#: admin/class-advanced-import-admin.php:367
+msgid "Slug:"
+msgstr "Slug:"
+
+#: admin/class-advanced-import-admin.php:366
+msgid "Plugin:"
+msgstr "Plugin:"
+
+#: admin/class-advanced-import-admin.php:365
+msgid "Your WordPress could not install the plugin correctly. You have to install the following plugin manually:"
+msgstr "Tu WordPress no ha podido instalar el plugin correctamente. Tienes que instalar el siguiente plugin manualmente:"
+
+#: admin/class-advanced-import-admin.php:349
+msgid "No plugins will be installed."
+msgstr "No se instalará ningún plugin."
+
+#: admin/class-advanced-import-admin.php:344
+msgid "The demo will install following plugin/s:"
+msgstr "La demo instalará el/los siguiente/s plugin/s:"
+
+#: example.php:50
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: example.php:28
+msgid "Title 2"
+msgstr "Título 2"
+
+#: example.php:5 example.php:57
+msgid "Title 1"
+msgstr "Título 1"
+
+#: admin/class-advanced-import-admin.php:275
+#: admin/class-advanced-import-admin.php:276
+msgid "View Pro"
+msgstr "Ver la versión Pro"
+
+#: admin/class-reset.php:119
+msgid "No permission to reset WordPress"
+msgstr "Sin permisos para restablecer WorPress"
+
+#: admin/class-advanced-import-admin.php:2792
+msgid "Author"
+msgstr "Autor"
+
+#: example.php:8 example.php:22 example.php:31 example.php:45 example.php:61
+#: example.php:75
+msgid "Gutentor"
+msgstr "Gutentor"
+
+#: admin/class-advanced-import-admin.php:2813
+msgid "More information:"
+msgstr "Más información:"
+
+#: admin/class-advanced-import-admin.php:2792
+msgid "Community forum"
+msgstr "Foro de la comunidad"
+
+#: admin/class-advanced-import-admin.php:2780
+#: admin/class-advanced-import-admin.php:2782
+msgid "Information"
+msgstr "Información"
+
+#: admin/class-advanced-import-admin.php:2389
+msgid "Zero size file downloaded"
+msgstr "Descargado un archivo de tamaño cero"
+
+#: admin/class-advanced-import-admin.php:2383
+msgid "Remote file is incorrect size"
+msgstr "El archivo remoto tiene un tamaño incorrecto"
+
+#: admin/class-advanced-import-admin.php:2375
+msgid "Remote server did not respond"
+msgstr "El servidor remoto no ha respondido"
+
+#: admin/class-advanced-import-admin.php:2807
+msgid "If no important data on your site. You can reset the WordPress back to default again!"
+msgstr "Si no hay datos importantes en tu sitio, puedes restablecer de nuevo al WordPress por defecto."
+
+#: admin/class-advanced-import-admin.php:2806
+msgid "<strong>WordPress Reset</strong>"
+msgstr "<strong>Restablecer WordPress</strong>"
+
+#: admin/class-advanced-import-admin.php:2804
+msgid "Reset wizard"
+msgstr "Asistente de restablecimiento"
+
+#: includes/functions-advanced-import.php:286
+msgid "Unable to connect to the filesystem. Please confirm your credentials."
+msgstr "No se ha podido conectar con el sistema de archivos. Por favor, confirma tus credenciales."
+
+#: admin/class-advanced-import-admin.php:2736
+msgid "No plugin specified."
+msgstr "No se ha especificado ningún plugin."
+
+#: admin/class-advanced-import-admin.php:2711
+msgid "Congratulations! All Data is imported successfully. From %1$s WordPress dashboard%2$s you can make changes and modify any of the default content to suit your needs."
+msgstr "¡Enhorabuena! Todos los datos se han importado correctamente. Desde el %1$s escritorio de WordPress%2$s puedes hacer cambios y modificar cualquiera de los contenidos por defecto para adaptarlos a tus necesidades."
+
+#: admin/class-advanced-import-admin.php:2710
+msgid " %1$sVisit your Site%2$s "
+msgstr " %1$sVisita tu sitio%2$s "
+
+#: admin/class-advanced-import-admin.php:2709
+msgid "Your Website is Ready!"
+msgstr "¡Tu sitio web está listo!"
+
+#: admin/class-advanced-import-admin.php:2667
+msgid "ERROR!!!! "
+msgstr "¡¡¡¡ERROR!!!! "
+
+#: admin/class-advanced-import-admin.php:2286
+msgid " previously."
+msgstr " anteriormente."
+
+#: admin/class-advanced-import-admin.php:2286
+#: admin/class-advanced-import-admin.php:2294
+#: admin/class-advanced-import-admin.php:2300
+msgid " ID "
+msgstr " ID "
+
+#: admin/class-advanced-import-admin.php:2286
+msgid "- Successfully processed "
+msgstr "- Procesado correctamente "
+
+#: admin/class-advanced-import-admin.php:2279
+msgid "delayed posts"
+msgstr "entradas retrasadas"
+
+#: admin/class-advanced-import-admin.php:1995
+msgid "in content."
+msgstr "en el contenido."
+
+#: admin/class-advanced-import-admin.php:1995
+msgid "Unable to find TAXONOMY replacement for "
+msgstr "No se ha podido encontrar el sustituto de TAXONOMÍA para "
+
+#: admin/class-advanced-import-admin.php:1929
+#: admin/class-advanced-import-admin.php:1950
+#: admin/class-advanced-import-admin.php:1968
+msgid "Unable to find replacement. Delaying...."
+msgstr "No se ha podido encontrar reemplazo. Retrasando…"
+
+#: admin/class-advanced-import-admin.php:1926
+#: admin/class-advanced-import-admin.php:1947
+#: admin/class-advanced-import-admin.php:1965
+#: admin/class-advanced-import-admin.php:1998
+msgid "Unable to find replacement. Continue anyway.... content will most likely break.."
+msgstr "No se ha podido encontrar reemplazo. Continuar de todas formas… el contenido probablemente se romperá…"
+
+#: admin/class-advanced-import-admin.php:1663
+#: admin/class-advanced-import-admin.php:2279
+msgid "Processing "
+msgstr "Procesando "
+
+#: admin/class-advanced-import-admin.php:1611
+msgid " as new ID: "
+msgstr " como nueva ID: "
+
+#: admin/class-advanced-import-admin.php:1611
+msgid "Insert old ID "
+msgstr "Insertar la antigua ID "
+
+#: admin/class-advanced-import-admin.php:1454
+msgid "Starting import for "
+msgstr "Comenzando la importación para "
+
+#: admin/class-advanced-import-admin.php:1443
+msgid "No content Found"
+msgstr "No se ha encontrado contenido"
+
+#: admin/class-advanced-import-admin.php:1368
+msgid "Status"
+msgstr "Estado"
+
+#: admin/class-advanced-import-admin.php:1367
+msgid "Description"
+msgstr "Descripción"
+
+#: admin/class-advanced-import-admin.php:1357
+msgid "It's time to insert some demo content for your new WordPress Site. Once inserted, this content can be managed from the WordPress admin dashboard. "
+msgstr "Es hora de insertar algún contenido de demostración para tu nuevo sitio WordPress. Una vez insertado, este contenido se puede gestionar desde el escritorio de administración de WordPress. "
+
+#: admin/class-advanced-import-admin.php:1317
+msgid "Installing Default Settings."
+msgstr "Instalando los ajustes por defecto."
+
+#: admin/class-advanced-import-admin.php:1315
+msgid "Configure default settings."
+msgstr "Configurar los ajustes por defecto."
+
+#: admin/class-advanced-import-admin.php:1314
+msgid "Settings"
+msgstr "Ajustes"
+
+#: admin/class-advanced-import-admin.php:1303
+msgid "Installing Default Widgets."
+msgstr "Instalando los widgets por defecto."
+
+#: admin/class-advanced-import-admin.php:1301
+msgid "Insert default sidebar widgets as seen in the demo."
+msgstr "Inserta los widgets por defecto de la barra lateral como se ve en la demostración."
+
+#: admin/class-advanced-import-admin.php:1300
+msgid "Widgets"
+msgstr "Widgets"
+
+#: admin/class-advanced-import-admin.php:1249
+#: admin/class-advanced-import-admin.php:1304
+#: admin/class-advanced-import-admin.php:1318
+msgid "Success."
+msgstr "Correcto."
+
+#: admin/class-advanced-import-admin.php:554
+#: admin/class-advanced-import-admin.php:633
+#: admin/class-advanced-import-admin.php:790 admin/class-reset.php:245
+msgid "Success"
+msgstr "Correcto"
+
+#: admin/class-advanced-import-admin.php:536
+#: admin/class-advanced-import-admin.php:546
+#: admin/class-advanced-import-admin.php:615
+#: admin/class-advanced-import-admin.php:625
+#: admin/class-advanced-import-admin.php:772
+#: admin/class-advanced-import-admin.php:782
+msgid "Invalid Zip File"
+msgstr "Archivo .zip no válido"
+
+#: admin/class-advanced-import-admin.php:522
+#: admin/class-advanced-import-admin.php:601
+#: admin/class-advanced-import-admin.php:756
+msgid "Error on unzipping, Please try again"
+msgstr "Error al descomprimir. Por favor, inténtalo de nuevo"
+
+#: admin/class-advanced-import-admin.php:506
+#: admin/class-advanced-import-admin.php:577
+#: admin/class-advanced-import-admin.php:1058
+#: admin/class-advanced-import-admin.php:1089
+#: admin/class-advanced-import-admin.php:1116
+#: admin/class-advanced-import-admin.php:1340
+#: admin/class-advanced-import-admin.php:1415
+#: admin/class-advanced-import-admin.php:2693 admin/class-reset.php:233
+msgid "Sorry, you are not allowed to install demo on this site."
+msgstr "Lo siento, no tienes permisos para para instalar la demostración en este sitio."
+
+#: admin/class-advanced-import-admin.php:489
+msgid "It looks like you have already run the demo import for this theme."
+msgstr "Parece que ya has ejecutado la importación de demostración de este tema."
+
+#. translators: 1: current theme
+#: admin/class-advanced-import-admin.php:482
+msgid "Thank you for choosing the %s theme. This quick demo import setup will help you configure your new website like theme demo. It will install the required WordPress plugins, default content and tell you a little about Help &amp; Support options. It should only take less than 5 minutes."
+msgstr "Gracias por elegir el tema %s. Esta configuración rápida de importación de la demostración te ayudará a configurar tu nuevo sitio web como la demostración del tema. Instalará los plugins necesarios de WordPress, el contenido por defecto y te informará un poco acerca de las opciones de ayuda y soporte. Solo debería llevarte menos de 5 minutos."
+
+#: admin/class-advanced-import-admin.php:459
+#: admin/class-advanced-import-template.php:137
+msgid "Processing... Please do not refresh this page or do not go to other url!"
+msgstr "Procesando… Por favor, ¡no recargues esta página ni vayas a otra URL!"
+
+#: admin/class-advanced-import-admin.php:371
+msgid "Okay"
+msgstr "OK"
+
+#: admin/class-advanced-import-admin.php:370
+msgid "Visit My Site"
+msgstr "Visita mi sitio"
+
+#: admin/class-advanced-import-admin.php:798
+msgid "File not allowed"
+msgstr "Archivo no permitido"
+
+#: admin/class-advanced-import-admin.php:745
+#: admin/class-advanced-import-admin.php:2395
+msgid "Remote file is too large, limit is %s"
+msgstr "El archivo remoto es demasiado grande, el límite es de %s"
+
+#: admin/class-advanced-import-admin.php:734
+msgid "Zero size file downloaded, Contact to Theme Author"
+msgstr "Archivo de tamaño cero descargado. Contacta con el autor del tema"
+
+#: admin/class-advanced-import-admin.php:721
+msgid "Remote server did not respond, Contact to Theme Author"
+msgstr "El servidor remoto no ha respondido, ponte en contacto con el autor del tema"
+
+#: admin/class-advanced-import-admin.php:560
+msgid "No Zip File Found"
+msgstr "No se ha encontrado ningún archivo .zip"
+
+#: admin/class-advanced-import-admin.php:360
+msgid "Ok"
+msgstr "Ok"
+
+#: admin/class-advanced-import-admin.php:363
+msgid "Error Code:"
+msgstr "Código de error:"
+
+#: admin/class-advanced-import-admin.php:364
+msgid "Contact theme author or try again"
+msgstr "Ponte en contacto con el autor del tema o inténtalo de nuevo"
+
+#: admin/class-advanced-import-admin.php:359
+msgid "Reset Successful"
+msgstr "Restablecimiento correcto"
+
+#: admin/class-advanced-import-admin.php:354
+msgid "Yes, Reset"
+msgstr "Sí, restablecer"
+
+#: admin/class-advanced-import-admin.php:353
+msgid "You won't be able to revert this!"
+msgstr "¡No podrás revertir esto!"
+
+#: admin/class-advanced-import-admin.php:352
+msgid "Are you sure?"
+msgstr "¿Seguro?"
+
+#: admin/class-advanced-import-admin.php:348
+#: admin/class-advanced-import-admin.php:355
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: admin/class-advanced-import-admin.php:334
+msgid "Skipping"
+msgstr "Omitiendo"
+
+#: admin/class-advanced-import-admin.php:333
+#: admin/class-advanced-import-admin.php:1528
+msgid "Error"
+msgstr "Error"
+
+#: admin/class-advanced-import-admin.php:332
+msgid "Failed"
+msgstr "Ha fallado"
+
+#: admin/class-reset.php:219
+msgid "WordPress has been reset back to defaults. The user <strong>\"%1$s\"</strong> was recreated with its previous password."
+msgstr "WordPress se ha restablecido a sus valores por defecto. El usuario <strong> «%1$s»</strong> ha sido vuelto a crear con su contraseña anterior."
+
+#: admin/class-reset.php:212
+msgid "Hide this notice"
+msgstr "Ocultar este aviso"
+
+#: admin/class-advanced-import-admin.php:2808 admin/class-reset.php:212
+msgid "Run the Reset Wizard"
+msgstr "Ejecutar el asistente de restablecimiento"
+
+#: admin/class-reset.php:211
+msgid "<strong>WordPress Reset</strong> &#8211; If no important data on your site. You can reset the WordPress back to default again!"
+msgstr "<strong>Restablecimiento de WordPress</strong> &#8211; Si no hay datos importantes en tu sitio, ¡puedes restablecer WordPress de nuevo a los valores por defecto!"
+
+#. Plugin URI of the plugin
+#: advanced-import.php
+msgid "https://addonspress.com/item/advanced-import"
+msgstr "https://addonspress.com/item/advanced-import"
+
+#. Author URI of the plugin
+#: advanced-import.php
+msgid "https://addonspress.com/"
+msgstr "https://addonspress.com/"
+
+#: admin/class-reset.php:96
+msgid "Cheatin&#8217; huh?"
+msgstr "Haciendo trampas, ¿eh?"
+
+#: admin/class-reset.php:92 admin/class-reset.php:116
+msgid "Action failed. Please refresh the page and retry."
+msgstr "La acción ha fallado. Por favor, recarga la página e inténtalo de nuevo."
+
+#: admin/class-advanced-import-admin.php:815
+msgid "All"
+msgstr "Todo"
+
+#. Author of the plugin
+#: advanced-import.php
+msgid "AddonsPress"
+msgstr "AddonsPress"
+
+#. Plugin Name of the plugin
+#: advanced-import.php admin/class-advanced-import-admin.php:438
+#: admin/class-advanced-import-admin.php:2815
+msgid "Advanced Import"
+msgstr "Advanced Import"
+
+#: admin/class-advanced-import-admin.php:2290
+#: admin/class-advanced-import-admin.php:2298
+msgid " ( "
+msgstr " ( "
+
+#: admin/class-advanced-import-admin.php:1366
+msgid "Item"
+msgstr "Elemento"
+
+#: admin/class-advanced-import-admin.php:1248
+msgid "Installing."
+msgstr "Instalando."
+
+#: admin/class-advanced-import-admin.php:1247
+#: admin/class-advanced-import-admin.php:1302
+#: admin/class-advanced-import-admin.php:1316
+msgid "Pending."
+msgstr "Pendiente."
+
+#: admin/class-advanced-import-admin.php:1246
+msgid "This will create default %s as seen in the demo."
+msgstr "Esto creará %s por defecto como se ve en la demo."
+
+#: admin/class-advanced-import-admin.php:1148
+msgid "No Recommended Plugins"
+msgstr "Plugins no recomendados"
+
+#: admin/class-advanced-import-admin.php:1129
+msgid "Your website needs a few essential plugins. We are installing them..."
+msgstr "Tu sitio web necesita unos pocos plugins esenciales. Los estamos instalando…"
+
+#: admin/class-advanced-import-admin.php:1014
+msgid "Not right now"
+msgstr "Por ahora, no"
+
+#: admin/class-advanced-import-admin.php:1011
+msgid "Upload Demo Zip"
+msgstr "Subir archivo .zip de demostración"
+
+#: admin/class-advanced-import-admin.php:1006
+msgid "Select File and Try Again!"
+msgstr "¡Selecciona un archivo e inténtalo de nuevo!"
+
+#: admin/class-advanced-import-admin.php:1001
+msgid "Maximum upload file size: %s"
+msgstr "Tamaño máximo de subida: %s"
+
+#: admin/class-advanced-import-admin.php:996
+msgid "Upload a zip file containing demo content"
+msgstr "Sube un archivo .zip que contenga contenido de demostración"
+
+#: admin/class-advanced-import-admin.php:207
+#: admin/class-advanced-import-admin.php:266
+#: admin/class-advanced-import-admin.php:267
+msgid "Import"
+msgstr "Importar"
+
+#: admin/class-advanced-import-admin.php:956
+msgid "Preview"
+msgstr "Previsualizar"
+
+#: admin/class-advanced-import-admin.php:946
+msgid "Premium"
+msgstr "Premium"
+
+#: admin/class-advanced-import-admin.php:939
+msgid "Details"
+msgstr "Detalles"
+
+#: admin/class-advanced-import-admin.php:933
+msgid "Author: "
+msgstr "Autor: "
+
+#: admin/class-advanced-import-admin.php:861
+msgid "All Categories"
+msgstr "Todas las categorías"
+
+#: admin/class-advanced-import-admin.php:851
+msgid "Categories"
+msgstr "Categorías"
+
+#: admin/class-advanced-import-admin.php:840
+msgid "Upload zip"
+msgstr "Subir archivo .zip"
+
+#: admin/class-advanced-import-admin.php:833
+msgid "Search..."
+msgstr "Buscar…"
+
+#. translators: 1: current theme
+#: admin/class-advanced-import-admin.php:479
+msgid "Welcome to the Advanced Import for %s."
+msgstr "Te damos la bienvenida a Advanced Import para %s."
+
+#: admin/class-advanced-import-admin.php:345
+msgid "Please click on the Import button and wait, it will take some time to import the data."
+msgstr "Haz clic en el botón e importación y espera, llevará algún tiempo importar los datos."
+
+#: admin/class-advanced-import-admin.php:342
+msgid "It will install the plugins required for demo and activate them. Also posts, pages, images, widgets, & other data will get imported."
+msgstr "Instalará los plugins necesarios para la demo y los activará. También se importarán las entradas, las páginas, las imágenes, los widgets y otros datos."
+
+#: admin/class-advanced-import-admin.php:341
+msgid "No existing posts, pages, categories, images, custom post types or any other data will be deleted or modified."
+msgstr "No se borrará ni modificará ninguna entrada, página, categoría, imagen, tipo de contenido personalizado ni ningún otro dato existente."
+
+#: admin/class-advanced-import-admin.php:2300
+msgid " - Not found delayed replacement for "
+msgstr " - No se ha encontrado reemplazo retrasado para "
+
+#: admin/class-advanced-import-admin.php:2294
+msgid " - Successfully found delayed replacement for "
+msgstr " - Encontrado correctamente el reemplazo retrasado de "
+
+#: admin/class-advanced-import-admin.php:340
+msgid "It is highly recommended to import demo on fresh WordPress installation to exactly replicate the theme demo. If no important data on your site, you can reset it from Reset Wizard at the top"
+msgstr "Se recomienda encarecidamente importar la demostración en una nueva instalación de WordPress para replicar exactamente la demo del tema. Si no hay datos importantes en tu sitio, puedes restablecerlos desde el asistente de restablecimiento en la parte superior"
+
+#. translators: 1: message 1, 2: message 2., 3: message 3., 4: message 4.
+#: admin/class-advanced-import-admin.php:339
+msgid "Importing demo data is the easiest way to setup your theme. It will allow you to quickly edit everything instead of creating content from scratch. Also, read following points before importing the demo: %1$s %2$s %3$s %4$s"
+msgstr "Importar datos de demostración es la forma más sencilla de configurar tu tema. Te permitirá editarlo todo rápidamente en lugar de crear contenido desde cero. Además, lee los siguientes puntos antes de importar la demostración: %1$s %2$s %3$s %4$s"

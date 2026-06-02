@@ -1,0 +1,66 @@
+*** Gadgetry Theme Changelog ***
+
+2026-04-24 - version 1.0.8
+* Fix			- Spacing issue in the mini-cart drawer.
+* Fix			- Alignment and direction of the product quantity input.
+* Fix			- Product description font-size.
+* Fix			- Post categories listing issue.
+* Updates		- Ensured compatibility with WooCommerce 10.7.0.
+
+2025-12-27 - version 1.0.7
+* Fix			- Resolved theme text-domain issue.
+* Fix			- Resolved a z-index issue affecting the product search block in the navigation.
+* Updates	 	- Updated the theme.json schema reference to the latest WordPress 6.9 schema.
+
+2025-08-24 - version 1.0.6
+* New			- Introducing pattern left and right sidebar layout of shop and archive pages.
+* Updates		- Schema reference in theme.json to "https://schemas.wp.org/wp/6.8/theme.json".
+* Updates		- footer copyright year.
+* Fix			- Resolved inter font family loading issue.
+* Fix			- Resolved typo issue on order confirmation.
+* Fix			- Resolved alignment issue on cross selling product and you may also like.
+* Fix			- Resolved related product heading color issue on single product page.
+* Fix			- Resolved navigation search input field spacing issue.
+
+2025-05-04 - version 1.0.5
+* New			- Introducing techno demo https://artifydemos.com/gadgetry-techno/.
+* New			- Added new banner pattern banner-type-3-style-1.
+* New			- Added new page templates and pattern page-home-type-2-style-1.
+* New			- Created new page templates page-about-type-1-style-1 and page-contact-type-1-style-1.
+* New			- Added new product categories patterns product-categories-type-1-style-2, product-categories-type-3-style-1.
+* New			- Added new header pattern header-type-3-style-1.
+* New			- Added new text pattern info-bar-type-3-style-1.
+* New			- Introducing product search style-2.
+* Fix			- Resolved slug issue for advertisement-type-5-style-1.
+* Fix			- Fixed heading section in the coming-soon-type-1-style-1 pattern.
+* Fix			- Fixed search width issue on header-type-2-style-1 pattern.
+
+2025-04-25 - version 1.0.4
+* Fix		  	- Resolved an issue with incorrect font weight rendering.
+* Fix		  	- Fixed z-index issue with the sale badge overlapping other elements.
+* Fix		  	- Resolved demo URL issues.
+* Fix		  	- Resolved UI issue in filter by active, filter by price, filter by rating blocks.
+* Fix		  	- Corrected the width issue in button-type-1-style-1.
+* Fix		  	- Fixed typo issue on menu list.
+
+2025-03-04 - version 1.0.3
+* Fix		  	- Menu issee on while importing Demo.
+* Fix         	- Sale badge z-index issue.
+* Fix         	- Heading, paragraph spacing issue.
+* Fix         	- Spacing issue on product-collection-type-5-style-1 pattern.
+* Feature		- Added product colleciton patterns product-collection-type-1-style-2, product-collection-type-2-style-2, product-collection-type-3-style-2, product-collection-type-4-style-2.
+
+2025-01-29 - version 1.0.2
+* Enhancements	- Revamped demo import layout.
+* Enhancements	- Added a dedicated Gadgetry theme page.
+* Fix		  	- Checkout input label.
+* Fix         	- Button border color issue.
+* Feature		- Added advertisement patterns advertisement-type-2-style-1, advertisement-type-3-style-1, advertisement-type-4-style-1, advertisement-type-5-style-1, advertisement-type-6-style-1.
+
+2024-12-12 - version 1.0.1
+* Feature     - Demo import support.
+* Fix		  - Resolved slug issue for Header (T2S1).
+* Fix         - Replace header search block with product search block.
+
+2024-11-28 - version 1.0
+* Initial release

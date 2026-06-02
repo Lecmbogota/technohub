@@ -1,0 +1,40 @@
+/**
+ * Layout Elements.
+ */
+
+.gadgetry-container {
+
+    max-width: var(--GADGETRY-WIDTH-CONTAINER);
+    margin: 0 auto;
+    padding-left: var(--GADGETRY-SPACE-20);
+    padding-right: var(--GADGETRY-SPACE-20);
+}
+
+.gadgetry-contained {
+
+    max-width: var(--GADGETRY-WIDTH-CONTAINED);
+    margin: 0 auto;
+}
+
+.gadgetry-cols {
+
+    display: flex;
+    justify-content: space-between;
+    gap: var(--GADGETRY-SPACE-70);
+
+    @media screen and (max-width:768px) {
+
+        flex-direction: column;
+    }
+}
+
+.gadgetry-round-border {
+
+    border-radius: 16px;
+    border: 1px solid var(--GADGETRY-COLOR-GRAY-300);
+}
+
+.gadgetry-padded {
+
+    padding: var(--GADGETRY-SPACE-50);
+}

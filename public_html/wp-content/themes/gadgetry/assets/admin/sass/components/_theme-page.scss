@@ -1,0 +1,115 @@
+/**
+ * Theme Page.
+ */
+
+.appearance_page_gadgetry-settings {
+
+    #wpcontent {
+
+        padding-left: 0;
+    }
+}
+
+.gadgetry-settings-wrapper {
+
+    margin: 0;
+    box-sizing: border-box;
+
+    .gadgetry-header {
+
+        border-bottom: 1px solid var(--GADGETRY-COLOR-GRAY-300);
+
+        .gadgetry-header-top {
+
+            padding: var(--GADGETRY-SPACE-40) 0;
+            background-color: var(--GADGETRY-COLOR-GRAY-1000);
+            color: var(--GADGETRY-COLOR-GRAY-300);
+            font-size: var(--GADGETRY-FONT-SIZE-X-SM);
+        }
+
+        .gadgetry-identity {
+
+            display: flex;
+            align-items: center;
+            gap: var(--GADGETRY-SPACE-20);
+        }
+
+        .gadgetry-logo {
+
+            height: var(--GADGETRY-SPACE-50);
+        }
+
+        .gadgetry-info {
+
+            display: flex;
+            align-items: center;
+            gap: var(--GADGETRY-SPACE-10);
+
+            h1,
+            .gadgetry-version {
+
+                font-size: var(--GADGETRY-FONT-SIZE-X-SM);
+                color: var(--GADGETRY-COLOR-GRAY-300);
+            }
+        }
+
+        .gadgetry-db-main {
+
+            border-bottom: 1px solid var(--GADGETRY-COLOR-GRAY-300);
+        }
+
+        .error, .notice {
+            display: none;
+        }
+    }
+
+    .gadgetry-tabs__nav {
+
+        display: flex;
+        flex-wrap: wrap;
+
+        .gadgetry-nav-item {
+
+            a {
+
+                display: block;
+                padding: var(--GADGETRY-SPACE-40);
+                font-size: var(--GADGETRY-FONT-SIZE-SM);
+                font-weight: 400;
+                color: var(--GADGETRY-COLOR-GRAY-800);
+            }
+
+            &.gadgetry-nav-item__active {
+
+                a {
+
+                    border-bottom: 2px solid var(--GADGETRY-COLOR-PRIMARY-500);
+                    font-weight: 600;
+                    color: var(--GADGETRY-COLOR-GRAY-1000);
+                }
+            }
+        }
+    }
+
+    .gadgetry-main {
+
+        padding: var(--GADGETRY-SPACE-70) 0;
+
+        .gadgetry-page-title {
+
+            color: var(--GADGETRY-COLOR-GRAY-800);
+            font-size: var(--GADGETRY-FONT-SIZE-LG);
+            font-weight: 600;
+            line-height: 1.6;
+            margin-top: 0;
+            margin-bottom: var(--GADGETRY-SPACE-20);
+        }
+
+        .gadgetry-onboarding-video {
+
+            margin: var(--GADGETRY-SPACE-60) 0;
+        }
+
+        
+    }
+}

@@ -1,0 +1,17 @@
+/**
+ * Theme Page > Dashboard.
+ */
+
+.gadgetry-tabs_content {
+
+    gap: var(--GADGETRY-SPACE-60);
+    padding: var(--GADGETRY-SPACE-70) 0;
+
+    .gadgetry-main-content {
+
+        display: flex;
+        gap: var(--GADGETRY-SPACE-60);
+        flex-direction: column;
+        flex: 1;
+    }
+}

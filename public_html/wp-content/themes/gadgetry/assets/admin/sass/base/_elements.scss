@@ -1,0 +1,73 @@
+/**
+ * Admin elements.
+ */
+
+.gadgetry-settings-wrapper {
+
+    p {
+
+        font-size: inherit;
+        color: inherit;
+        margin-top: 0;
+        margin-bottom: var(--GADGETRY-SPACE-40);
+        line-height: 1.6;
+
+        &:last-child {
+
+            margin-bottom: 0;
+        }
+    }
+
+    a {
+
+        text-decoration: none;
+
+        &:not(.gadgetry-button) {
+
+            color: var(--GADGETRY-COLOR-PRIMARY-500);
+        }
+
+        &:hover {
+
+            text-decoration: underline;
+        }
+    }
+
+    h1,
+    h2,
+    h3,
+    h4 {
+
+        padding: 0;
+        margin: 0;
+        font-weight: 600;
+        color: var(--GADGETRY-COLOR-GRAY-800);
+        line-height: 1.1;
+
+        a {
+
+            color: inherit;
+        }
+    }
+
+    ul,
+    li {
+
+        margin: 0;
+        padding: 0;
+    }
+
+    ul {
+
+        li {
+
+            padding: var(--GADGETRY-SPACE-20) 0;
+            border-top: 1px solid var(--GADGETRY-COLOR-GRAY-300);
+
+            &:first-child {
+
+                border-top: 0;
+            }
+        }
+    }
+}

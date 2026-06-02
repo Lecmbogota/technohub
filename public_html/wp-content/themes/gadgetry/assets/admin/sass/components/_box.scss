@@ -1,0 +1,164 @@
+/**
+ * Box section.
+ */
+
+.gadgetry-box {
+
+    display: flex;
+    flex-direction: column;
+    gap: var(--GADGETRY-SPACE-60);
+
+    .gadgetry-box__title {
+
+        margin-bottom: var(--GADGETRY-SPACE-20);
+        font-size: var(--GADGETRY-SPACE-50);
+        line-height: 1.6;
+    }
+
+    .gadgetry-video {
+
+        background-color: var(--GADGETRY-COLOR-ALERT-WARNING-100);
+        position: relative;
+        transition: all 0.3s;
+
+        &:hover {
+
+            background-color: rgb(255 253 214 / 50%);
+            opacity: 0.8;
+        }
+
+        .gadgetry-dialog {
+
+            width: 100%;
+            height: 100%;
+            background-color: transparent;
+            position: absolute;
+            left: 0;
+            top: 0;
+        }
+
+        .gadgetry-video__wrapper {
+
+            width: 440px;
+            height: 365px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            gap: var(--GADGETRY-SPACE-20);
+            box-sizing: border-box;
+            cursor: pointer;
+        }
+
+        .gadgetry-video__title {
+
+            font-size: var(--GADGETRY-FONT-SIZE-X-LG);
+            line-height: 1.4;
+        }
+
+        .gadgetry-video__icon {
+
+            display: flex;
+            gap: var(--GADGETRY-SPACE-40);
+            align-items: center;
+        }
+
+        .gadgetry-video__caption {
+
+            font-size: var(--GADGETRY-FONT-SIZE-SM);
+            font-weight: 500;
+        }
+    }
+
+    .gadgetry-video__dialog {
+
+        iframe {
+            background-color: var(--GADGETRY-COLOR-ALERT-WARNING-100);
+            max-width: 100%;
+            width: 100%;
+        }
+    }
+
+    .gadgetry-buttons {
+
+        margin-top: var(--GADGETRY-SPACE-40);
+    }
+}
+
+.gadgetry-box__section {
+
+    display: flex;
+    flex-direction: column;
+    gap: var(--GADGETRY-SPACE-20);
+
+    h3 {
+
+        color: var(--GADGETRY-COLOR-GRAY-900);
+        font-size: var(--GADGETRY-FONT-SIZE-MD);
+    }
+
+    h4 {
+
+        font-size: var(--GADGETRY-FONT-SIZE-SM);
+    }
+
+    .gadgetry-section__header {
+
+        display: flex;
+        flex-direction: column;
+        gap: var(--GADGETRY-SPACE-20);
+    }
+}
+
+.gadgetry-list {
+
+    display: flex;
+    flex-direction: column;
+
+    .gadgetry-list__item {
+
+        padding: var(--GADGETRY-SPACE-40);
+        line-height: 1.8;
+        display: flex;
+        gap: var(--GADGETRY-SPACE-40);
+        margin-left: -24px;
+        margin-right: -24px;
+
+        .gadgetry-list__content {
+
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+            gap: var(--GADGETRY-SPACE-40);
+            justify-content: center;
+        }
+    }
+
+    .gadgetry-number {
+
+        border: 1px solid var(--GADGETRY-COLOR-PRIMARY-500);
+        color: var(--GADGETRY-COLOR-PRIMARY-500);
+        border-radius: 50%;
+        width: 25px;
+        height: 25px;
+        text-align: center;
+    }
+
+    .gadgetry-list__desc {
+
+        p {
+
+            margin-bottom: var(--GADGETRY-SPACE-10);
+        }
+
+        a {
+
+            display: block;
+            margin-top: var(--GADGETRY-SPACE-30);
+        }
+
+        li a {
+
+            margin-top: 0;
+        }
+    }    
+}

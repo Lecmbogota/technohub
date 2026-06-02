@@ -1,0 +1,38 @@
+/**
+ * Sidebar.
+ */
+
+.gadgetry-sidebar {
+
+    flex-basis: 350px;
+    display: flex;
+    flex-direction: column;
+    gap: var(--GADGETRY-SPACE-60);
+
+    .gadgetry-sidebar__section {
+
+        display: flex;
+        flex-direction: column;
+        gap: var(--GADGETRY-SPACE-20);
+
+        h3 {
+
+            line-height: 1.8;
+        }
+    }
+
+    .gadgetry-social {
+
+        li {
+
+            display: flex;
+            align-items: center;
+            gap: var(--GADGETRY-SPACE-20);
+        }
+    }
+
+    .gadgetry-screenshot {
+
+        max-width: 100%;
+    }
+}

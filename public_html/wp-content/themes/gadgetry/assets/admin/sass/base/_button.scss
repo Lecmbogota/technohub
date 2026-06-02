@@ -1,0 +1,45 @@
+/**
+ * Buttons.
+ */
+
+.gadgetry-buttons {
+
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--GADGETRY-SPACE-20);
+}
+
+.gadgetry-button {
+
+    font-size: var(--GADGETRY-FONT-SIZE-SM);
+    display: block;
+    border-radius: 4px;
+    padding: var(--GADGETRY-SPACE-20) var(--GADGETRY-SPACE-40);
+    margin: 0;
+    text-decoration: none;
+    line-height: 1.8;
+    font-weight: 500;
+    background-color: transparent;
+    border: 0;
+    color: var(--GADGETRY-COLOR-GRAY-900);
+
+    &:hover {
+
+        text-decoration: underline;
+        color: var(--GADGETRY-COLOR-PRIMARY-500);
+    }
+
+    &.gadgetry-button--primary {
+
+        background-color: var(--GADGETRY-COLOR-PRIMARY-500);
+        color: var(--GADGETRY-COLOR-GRAY-0);
+    }
+
+    &.gadgetry-button--secondary {
+
+        background-color: var(--GADGETRY-COLOR-GRAY-900);
+        color: var(--GADGETRY-COLOR-GRAY-0);
+        border-radius: 8px;
+    }
+}

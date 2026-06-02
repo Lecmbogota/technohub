@@ -1,0 +1,1759 @@
+# Copyright (C) 2026 ArtifyWeb
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Gadgetry 1.0.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/gadgetry\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-04-20T11:54:44+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: gadgetry\n"
+
+#. Theme Name of the theme
+#: style.css
+#: inc/admin/classes/class-theme-page.php:44
+msgid "Gadgetry"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://woocommerce.com/products/gadgetry"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Gadgetry, a versatile WooCommerce block theme, transforms your e-commerce store into a visually appealing haven for gadgets, electronics, and related products. Its user-friendly drag-and-drop blocks, pre-designed pages, patterns, and modern aesthetic ensure a seamless and visually stunning online shopping experience."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "ArtifyWeb"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://artifyweb.com/"
+msgstr ""
+
+#. Translators: %1$s - Opening html p tag, %2$s - Closing html p tag
+#: inc/admin/admin-functions.php:35
+msgid "%1$sCould not load the content.%2$s"
+msgstr ""
+
+#: inc/admin/admin-functions.php:72
+msgid "Install Demo Import"
+msgstr ""
+
+#: inc/admin/admin-functions.php:92
+msgid "Activate Demo Import"
+msgstr ""
+
+#: inc/admin/admin-functions.php:107
+msgid "Start Demo Import"
+msgstr ""
+
+#: inc/admin/classes/class-demo-import.php:44
+msgid "Main Demo"
+msgstr ""
+
+#: inc/admin/classes/class-demo-import.php:47
+#: inc/admin/classes/class-demo-import.php:68
+msgid "ArifyWeb"
+msgstr ""
+
+#: inc/admin/classes/class-demo-import.php:59
+#: inc/admin/classes/class-demo-import.php:80
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/admin/classes/class-demo-import.php:65
+msgid "Techno"
+msgstr ""
+
+#: inc/admin/classes/class-notices.php:107
+#: inc/admin/templates/theme-page.php:31
+msgid "Action failed. Please refresh the page and retry."
+msgstr ""
+
+#: inc/admin/classes/class-notices.php:112
+#: inc/admin/templates/theme-page.php:36
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/admin/classes/class-theme-page.php:43
+msgid "Gadgetry Theme"
+msgstr ""
+
+#: inc/admin/templates/notice-onboarding.php:22
+msgid "The \"Get Started\" link will take you to a page with additional setup options, including a step-by-step guide to building your site manually."
+msgstr ""
+
+#: inc/admin/templates/notice-onboarding.php:30
+msgid "Clicking this button will install the \"Advanced Import\" plugin allowing you to import the demo site."
+msgstr ""
+
+#: inc/admin/templates/notice-onboarding.php:34
+msgid "Clicking this button will activate the \"Advanced Import\" plugin allowing you to import the demo site."
+msgstr ""
+
+#: inc/admin/templates/notice-onboarding.php:38
+msgid "IMPORTANT: Dismiss this notice (by clicking the close icon on the top right) if you already imported the demo site or if it is not a fresh installation."
+msgstr ""
+
+#: inc/admin/templates/notice-onboarding.php:48
+msgid "Welcome to Gadgetry Theme!"
+msgstr ""
+
+#: inc/admin/templates/notice-onboarding.php:50
+msgid "Get started quickly with direct demo import or explore get started guides."
+msgstr ""
+
+#: inc/admin/templates/notice-onboarding.php:69
+msgid "Dismiss"
+msgstr ""
+
+#: inc/admin/templates/sidebar.php:21
+msgid "Gadgetry screenshot"
+msgstr ""
+
+#: inc/admin/templates/sidebar.php:29
+msgid "Helpful Links"
+msgstr ""
+
+#: inc/admin/templates/sidebar.php:34
+msgid "Explore other products"
+msgstr ""
+
+#: inc/admin/templates/sidebar.php:37
+msgid "Gadgetry information"
+msgstr ""
+
+#: inc/admin/templates/sidebar.php:40
+#: inc/admin/templates/tab-resources.php:53
+msgid "Gadgetry Documentation"
+msgstr ""
+
+#: inc/admin/templates/sidebar.php:43
+msgid "Our official website"
+msgstr ""
+
+#: inc/admin/templates/sidebar.php:46
+msgid "Explore demos"
+msgstr ""
+
+#: inc/admin/templates/sidebar.php:55
+msgid "Get Connected"
+msgstr ""
+
+#: inc/admin/templates/sidebar.php:71
+msgid "Facebook"
+msgstr ""
+
+#: inc/admin/templates/sidebar.php:79
+msgid "YouTube"
+msgstr ""
+
+#: inc/admin/templates/sidebar.php:100
+msgid "Instagram"
+msgstr ""
+
+#: inc/admin/templates/sidebar.php:115
+msgid "Twitter"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:24
+msgid "Get Started by Demo Import"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:30
+msgid "Create your online store by importing a demo site. Then, customize your website."
+msgstr ""
+
+#. Translators: %s - Demo link
+#: inc/admin/templates/tab-get-started.php:36
+msgid "Create your online store by importing a %s. Then, customize your website."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:37
+msgid "demo site"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:46
+msgid "Step 1: Import Demo Site"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:50
+msgid "Click the button below to install and activate the required plugin and import the demo site."
+msgstr ""
+
+#. Translators: %s - Demo import page
+#: inc/admin/templates/tab-get-started.php:56
+msgid "Once the plugin is activated, you can comeback here or go to %s for importing the demo."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:57
+msgid "Appearance > Demo Import"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:78
+msgid "Step 2: Site Customization"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:82
+msgid "After you import the demo site by clicking the button above, you can come back here and start customization by following the steps below. Click the title links below to go to the respective settings."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:90
+#: inc/admin/templates/tab-resources.php:47
+msgid "1"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:96
+msgid "Customize Entire Site"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:103
+msgid "Edit Header: "
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:103
+msgid "change logo, update site title/navigation menu/header button, etc."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:106
+msgid "Edit Homepage Content: "
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:107
+msgid "Update text, images, videos of homepage."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:110
+msgid "Edit Footer: "
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:111
+msgid "edit copyright, footer links."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:119
+#: inc/admin/templates/tab-resources.php:60
+msgid "2"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:125
+msgid "Edit Navigation Menus"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:132
+msgid "Add/remove/update menus and submenu items."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:140
+#: inc/admin/templates/tab-resources.php:73
+msgid "3"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:146
+msgid "Change Site Style"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:153
+msgid "Change look & feel of your site by customizing typography, colors, background, shadows, and layout."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:157
+msgid "Style each block individually and globally."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:164
+#: inc/admin/templates/tab-resources.php:85
+msgid "4"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:181
+msgid "Customize Shop"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:188
+msgid "Change products listing layout."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:192
+msgid "Control number of products to show in the product collection (Shop) page."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:196
+msgid "Edit Testimonials and offer CTA sections."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:202
+#: inc/admin/templates/tab-get-started.php:247
+msgid "Preview Store"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:212
+msgid "5"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:230
+msgid "Add New Products"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:237
+msgid "Add different types of products."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:241
+msgid "Fill the website with own products and make it your own store."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:257
+msgid "6"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:274
+msgid "Customize Blog"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:281
+msgid "Change blog CTA content."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:285
+msgid "Change how your blog posts appear."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:289
+msgid "Customize the sidebar."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:297
+msgid "7"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:307
+msgid "Add New Blog Posts"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:314
+msgid "Write articles related to products that you sell and publish them."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:318
+msgid "Engage your potential customers."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:326
+msgid "8"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:331
+msgid "Delete Demo Content"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:337
+msgid "If you've imported the demo site, delete the imported demo content that is not necessary for your store."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:341
+msgid "If you successfully imported the demo site, you do not need Advanced Import plugin that we use for demo import."
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:345
+msgid "Click the links below to navigate to the respective pages and take action:"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:351
+msgid "Delete Demo Products"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:357
+msgid "Delete Demo Posts"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:363
+msgid "Delete Demo Pages"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:369
+msgid "Delete Demo Media"
+msgstr ""
+
+#: inc/admin/templates/tab-get-started.php:388
+msgid "Deactivate & Delete Advanced Import Plugin"
+msgstr ""
+
+#: inc/admin/templates/tab-resources.php:24
+msgid "Neep Help? Try Helpful Links"
+msgstr ""
+
+#: inc/admin/templates/tab-resources.php:31
+msgid "The links to various documentation, guides and tutorials should help you further to enhance and maintain your website."
+msgstr ""
+
+#: inc/admin/templates/tab-resources.php:36
+msgid "If you have any confusion or need further help, you're always welcome to reach us out."
+msgstr ""
+
+#: inc/admin/templates/tab-resources.php:66
+msgid "Get Started with WooCommerce"
+msgstr ""
+
+#: inc/admin/templates/tab-resources.php:79
+msgid "Using Site Editor"
+msgstr ""
+
+#: inc/admin/templates/tab-resources.php:91
+#: patterns/footer-type-1-style-1.php:55
+msgid "Contact Us"
+msgstr ""
+
+#: inc/admin/templates/theme-page.php:19
+msgid "Get Started"
+msgstr ""
+
+#: inc/admin/templates/theme-page.php:20
+msgid "Help Resources"
+msgstr ""
+
+#: inc/admin/templates/theme-page.php:61
+msgid "Gadgetry Logo"
+msgstr ""
+
+#. Translators: %1$s - Page title, %2$s - Theme version number
+#: inc/admin/templates/theme-page.php:70
+msgid "%1$s v%2$s"
+msgstr ""
+
+#: inc/block-styles.php:31
+msgid "Ghost"
+msgstr ""
+
+#: inc/block-styles.php:35
+msgid "Link Only 1"
+msgstr ""
+
+#: inc/block-styles.php:39
+msgid "Black/White"
+msgstr ""
+
+#: inc/block-styles.php:43
+msgid "White/Black"
+msgstr ""
+
+#: inc/block-styles.php:47
+msgid "Shadow 1"
+msgstr ""
+
+#: inc/block-styles.php:51
+msgid "Shadow 2"
+msgstr ""
+
+#: inc/block-styles.php:55
+msgid "Shadow 3"
+msgstr ""
+
+#: inc/block-styles.php:59
+msgid "Store Icon on Left"
+msgstr ""
+
+#: inc/block-styles.php:63
+msgid "Support Icon on Left"
+msgstr ""
+
+#: inc/block-styles.php:69
+msgid "Highlight First Post"
+msgstr ""
+
+#: inc/block-styles.php:75
+#: inc/block-styles.php:91
+msgid "Style 1"
+msgstr ""
+
+#: inc/block-styles.php:79
+msgid "Style 2"
+msgstr ""
+
+#: inc/block-styles.php:85
+msgid "Button (Active)"
+msgstr ""
+
+#: inc/scripts.php:67
+msgid "1. Pages (Gadgetry)"
+msgstr ""
+
+#: inc/scripts.php:74
+msgid "2. WooCommerce (Gadgetry)"
+msgstr ""
+
+#: inc/scripts.php:81
+msgid "3. Advertisements (Gadgetry)"
+msgstr ""
+
+#: inc/wc-block-styles.php:32
+msgid "Button to Link (Gadgetry)"
+msgstr ""
+
+#: inc/wc-block-styles.php:40
+msgid "Center"
+msgstr ""
+
+#: inc/wc-block-styles.php:47
+msgid "Right"
+msgstr ""
+
+#: inc/wc-block-styles.php:56
+msgid "Vertical Tabs  (Gadgetry)"
+msgstr ""
+
+#: inc/wc-block-styles.php:62
+msgid "Fill/Border"
+msgstr ""
+
+#: inc/wc-block-styles.php:68
+#: inc/wc-block-styles.php:74
+msgid "Button to Link"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:18
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:26
+msgid "Page not found…"
+msgstr ""
+
+#: patterns/404.php:32
+msgid "Sorry, the page you are looking for is not found. Check the typo in the URL or go to homepage."
+msgstr ""
+
+#: patterns/404.php:44
+msgid "Go Back Home"
+msgstr ""
+
+#: patterns/advertisement-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "Advertisement (T1S1)"
+msgstr ""
+
+#: patterns/advertisement-type-1-style-1.php:17
+#: patterns/advertisement-type-2-style-1.php:22
+#: patterns/advertisement-type-3-style-1.php:22
+#: patterns/advertisement-type-4-style-1.php:22
+#: patterns/advertisement-type-5-style-1.php:22
+#: patterns/advertisement-type-6-style-1.php:22
+msgid "Advertisement"
+msgstr ""
+
+#: patterns/advertisement-type-1-style-1.php:21
+msgid "1280 x 95"
+msgstr ""
+
+#: patterns/advertisement-type-2-style-1.php
+msgctxt "Pattern title"
+msgid "Advertisement (T2S1)"
+msgstr ""
+
+#: patterns/advertisement-type-2-style-1.php:26
+msgid "300 x 250"
+msgstr ""
+
+#: patterns/advertisement-type-3-style-1.php
+msgctxt "Pattern title"
+msgid "Advertisement (T3S1)"
+msgstr ""
+
+#: patterns/advertisement-type-3-style-1.php:26
+msgid "728 x 90"
+msgstr ""
+
+#: patterns/advertisement-type-4-style-1.php
+msgctxt "Pattern title"
+msgid "Advertisement (T4S1)"
+msgstr ""
+
+#: patterns/advertisement-type-4-style-1.php:26
+msgid "300 x 600"
+msgstr ""
+
+#: patterns/advertisement-type-5-style-1.php
+msgctxt "Pattern title"
+msgid "Advertisement (T5S1)"
+msgstr ""
+
+#: patterns/advertisement-type-5-style-1.php:26
+msgid "970 x 250"
+msgstr ""
+
+#: patterns/advertisement-type-6-style-1.php
+msgctxt "Pattern title"
+msgid "Advertisement (T6S1)"
+msgstr ""
+
+#: patterns/advertisement-type-6-style-1.php:26
+msgid "930 x 180"
+msgstr ""
+
+#: patterns/archive-product.php
+msgctxt "Pattern title"
+msgid "Archive Product"
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "Archive"
+msgstr ""
+
+#: patterns/archive.php:56
+#: patterns/home.php:81
+#: patterns/posts-type-1-style-1.php:53
+#: patterns/posts-type-2-style-1.php:47
+#: patterns/sidebar-type-1-style-1.php:62
+msgid "We could not find any results."
+msgstr ""
+
+#: patterns/banner-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "Banner (T1S1)"
+msgstr ""
+
+#: patterns/banner-type-1-style-1.php
+msgctxt "Pattern description"
+msgid "A hero section with a title, a paragraph, a CTA button, and an image."
+msgstr ""
+
+#: patterns/banner-type-1-style-1.php:23
+#: patterns/banner-type-2-style-1.php:23
+msgid "Super Powerful Portable Sound"
+msgstr ""
+
+#: patterns/banner-type-1-style-1.php:27
+#: patterns/banner-type-2-style-1.php:27
+msgid "Experience superior sound quality on the go. Our portable speakers deliver powerful audio wherever you are."
+msgstr ""
+
+#: patterns/banner-type-1-style-1.php:36
+#: patterns/banner-type-2-style-1.php:36
+#: patterns/banner-type-3-style-1.php:38
+#: patterns/info-bar-type-1-style-1.php:22
+#: patterns/page-about-type-1-style-1.php:45
+#: patterns/product-categories-type-2-style-1.php:30
+#: patterns/product-categories-type-2-style-1.php:50
+#: patterns/product-categories-type-3-style-1.php:30
+#: patterns/product-categories-type-3-style-1.php:52
+#: patterns/product-categories-type-3-style-1.php:74
+#: patterns/services-type-1-style-1.php:39
+msgid "Shop Now"
+msgstr ""
+
+#: patterns/banner-type-2-style-1.php
+msgctxt "Pattern title"
+msgid "Banner (T2S1)"
+msgstr ""
+
+#: patterns/banner-type-2-style-1.php
+msgctxt "Pattern description"
+msgid "A hero section with a title, a paragraph, a CTA button, and background image."
+msgstr ""
+
+#: patterns/banner-type-3-style-1.php
+msgctxt "Pattern title"
+msgid "Banner (T3S1)"
+msgstr ""
+
+#: patterns/banner-type-3-style-1.php
+msgctxt "Pattern description"
+msgid "A hero section with a title, a paragraph, a CTA button, and image."
+msgstr ""
+
+#: patterns/banner-type-3-style-1.php:25
+msgid "Dominate the Game"
+msgstr ""
+
+#: patterns/banner-type-3-style-1.php:29
+msgid "Immerse yourself in gaming with this high-performance PC and stunning display for ultimate visual clarity and responsiveness."
+msgstr ""
+
+#: patterns/coming-soon-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "Coming Soon (T1S1)"
+msgstr ""
+
+#: patterns/coming-soon-type-1-style-1.php
+msgctxt "Pattern description"
+msgid "Coming soon with heading and days, hours, minutes and seconds"
+msgstr ""
+
+#: patterns/coming-soon-type-1-style-1.php:24
+msgid "Coming Soon"
+msgstr ""
+
+#: patterns/coming-soon-type-1-style-1.php:28
+msgid "Pardon our dust! We're working on something amazing — check back soon!"
+msgstr ""
+
+#: patterns/coming-soon-type-1-style-1.php:37
+msgid "Notify Me"
+msgstr ""
+
+#: patterns/coming-soon.php
+msgctxt "Pattern title"
+msgid "Coming Soon"
+msgstr ""
+
+#: patterns/coming-soon.php
+msgctxt "Pattern description"
+msgid "Coming soon"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "Primary Footer (T1S1)"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php
+msgctxt "Pattern description"
+msgid "Footer with 3 Rows, 4 columns, logo social-icons & copyright bar."
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php:23
+#: patterns/footer-type-1-style-1.php:35
+msgid "Privacy Policy"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php:29
+msgid "Returns & Exchanges"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php:31
+msgid "Payment Terms"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php:33
+msgid "Delivery Terms"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php:45
+msgid "Get Involved"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php:51
+msgid "About Us"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php:53
+msgid "Our Vision"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php:57
+#: patterns/footer-type-1-style-1.php:89
+msgid "Customer"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php:67
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php:73
+msgid "Smartphones"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php:75
+#: patterns/product-categories-type-1-style-1.php:108
+#: patterns/product-categories-type-1-style-2.php:110
+msgid "Headphones"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php:77
+msgid "Latop & Tablet"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php:79
+msgid "Printers"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php:95
+msgid "My Account"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php:97
+msgid "Store Location"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php:99
+msgid "Customer Service"
+msgstr ""
+
+#: patterns/footer-type-1-style-1.php:101
+msgid "FAQs"
+msgstr ""
+
+#. Translators: WordPress Theme by ArtifyWeb
+#: patterns/footer-type-1-style-1.php:154
+msgid "© %1$s | %2$s | WooCommerce Theme by %3$s"
+msgstr ""
+
+#: patterns/header-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "Primary Header (T1S1)"
+msgstr ""
+
+#: patterns/header-type-1-style-1.php
+msgctxt "Pattern description"
+msgid "Header with 2 Rows: Header with logo, search, buttons and primary menu with icons"
+msgstr ""
+
+#: patterns/header-type-1-style-1.php:35
+msgid "Become a Seller"
+msgstr ""
+
+#: patterns/header-type-1-style-1.php:41
+msgid "Customer Care"
+msgstr ""
+
+#: patterns/header-type-2-style-1.php
+msgctxt "Pattern title"
+msgid "Header (T2S1)"
+msgstr ""
+
+#: patterns/header-type-2-style-1.php
+#: patterns/header-type-2-style-2.php
+#: patterns/header-type-3-style-1.php
+msgctxt "Pattern description"
+msgid "Header with logo, menu and icons."
+msgstr ""
+
+#: patterns/header-type-2-style-2.php
+msgctxt "Pattern title"
+msgid "Header (T2S2)"
+msgstr ""
+
+#: patterns/header-type-3-style-1.php
+msgctxt "Pattern title"
+msgid "Header (T3S1)"
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern title"
+msgid "Home"
+msgstr ""
+
+#: patterns/home.php
+msgctxt "Pattern description"
+msgid "Homepage"
+msgstr ""
+
+#: patterns/info-bar-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "Information Bar (T1S1)"
+msgstr ""
+
+#: patterns/info-bar-type-1-style-1.php:15
+msgid "🎉 Flash Sale! Enjoy"
+msgstr ""
+
+#: patterns/info-bar-type-1-style-1.php:15
+#: patterns/services-type-1-style-1.php:30
+msgid "20% OFF"
+msgstr ""
+
+#: patterns/info-bar-type-1-style-1.php:15
+msgid "storewide—today only! Don’t miss out! 🛍️"
+msgstr ""
+
+#: patterns/media-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "Media text with right image (T1S1)"
+msgstr ""
+
+#: patterns/media-type-1-style-1.php
+#: patterns/media-type-1-style-2.php
+msgctxt "Pattern description"
+msgid "Media text section with title, offer, button and right image."
+msgstr ""
+
+#: patterns/media-type-1-style-1.php:22
+#: patterns/media-type-1-style-2.php:32
+msgid "Immerse Superior Sound Quality with Our Headphones"
+msgstr ""
+
+#: patterns/media-type-1-style-1.php:26
+#: patterns/media-type-1-style-2.php:36
+msgid "Gadgetry CX 20QF-67XOX"
+msgstr ""
+
+#: patterns/media-type-1-style-1.php:37
+#: patterns/media-type-1-style-2.php:47
+msgid "Starting at $59"
+msgstr ""
+
+#: patterns/media-type-1-style-2.php
+msgctxt "Pattern title"
+msgid "Media text with left image (T1S2)"
+msgstr ""
+
+#: patterns/mini-cart.php
+msgctxt "Pattern title"
+msgid "Mini Cart"
+msgstr ""
+
+#: patterns/mini-cart.php:51
+#: patterns/page-cart.php:101
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/order-confirmation.php
+msgctxt "Pattern title"
+msgid "Order Confirmation"
+msgstr ""
+
+#: patterns/order-confirmation.php:23
+msgid "Order details"
+msgstr ""
+
+#: patterns/order-confirmation.php:31
+msgid "Downloads"
+msgstr ""
+
+#: patterns/order-confirmation.php:44
+msgid "Shipping address"
+msgstr ""
+
+#: patterns/order-confirmation.php:57
+msgid "Billing address"
+msgstr ""
+
+#: patterns/order-confirmation.php:69
+msgid "Additional information"
+msgstr ""
+
+#: patterns/page-about-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "About Page (T1S1)"
+msgstr ""
+
+#: patterns/page-about-type-1-style-1.php:21
+msgid "Welcome to Gadgetry"
+msgstr ""
+
+#: patterns/page-about-type-1-style-1.php:25
+msgid "Our Ultimate Destination for Cutting-Edge Technology"
+msgstr ""
+
+#: patterns/page-about-type-1-style-1.php:31
+msgid "At Gadgetry, we're passionate about bringing you the latest in innovative technology. Whether you're a tech enthusiast, a gadget lover, or simply someone looking to upgrade their everyday essentials, you've come to the right place."
+msgstr ""
+
+#: patterns/page-about-type-1-style-1.php:63
+msgid "Explore Our Extensive Range"
+msgstr ""
+
+#: patterns/page-about-type-1-style-1.php:71
+msgid "Discover a curated selection of top-of-the-line gadgets that cater to every aspect of your modern lifestyle. From state-of-the-art smartphones and sleek laptops to smart home devices and wearable tech, we've got it all. Our product lineup is sourced from renowned brands known for their quality, reliability, and innovation."
+msgstr ""
+
+#: patterns/page-about-type-1-style-1.php:83
+msgid "Why Choose Gadgetry?"
+msgstr ""
+
+#: patterns/page-about-type-1-style-1.php:87
+msgid "Our product lineup is sourced from renowned brands known for their quality, reliability, and innovation."
+msgstr ""
+
+#: patterns/page-about-type-1-style-1.php:97
+msgid "Quality Assurance:"
+msgstr ""
+
+#: patterns/page-about-type-1-style-1.php:101
+msgid "We handpick products that meet stringent quality standards, ensuring you get the best of what technology has to offer."
+msgstr ""
+
+#: patterns/page-about-type-1-style-1.php:109
+msgid "Expert Guidance:"
+msgstr ""
+
+#: patterns/page-about-type-1-style-1.php:113
+msgid "Our team of tech enthusiasts is here to guide you through your purchase journey. Whether you need advice on specifications or comparisons between models, we're here to help."
+msgstr ""
+
+#: patterns/page-about-type-1-style-1.php:121
+msgid "Customer Satisfaction:"
+msgstr ""
+
+#: patterns/page-about-type-1-style-1.php:125
+msgid "Your satisfaction is our priority. We strive to provide a seamless shopping experience from browsing to delivery, backed by responsive customer support."
+msgstr ""
+
+#: patterns/page-cart.php
+msgctxt "Pattern title"
+msgid "Cart"
+msgstr ""
+
+#: patterns/page-cart.php:30
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/page-cart.php:109
+msgid "New in store"
+msgstr ""
+
+#: patterns/page-checkout-header.php
+msgctxt "Pattern title"
+msgid "Checkout Header"
+msgstr ""
+
+#: patterns/page-checkout.php
+msgctxt "Pattern title"
+msgid "Checkout"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "Contact Page (T1S1)"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php:23
+msgid "Main Line:"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php:23
+msgid "+1 (555) 123-4567"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php:27
+msgid "Customer Support:"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php:27
+msgid "+1 (555) 987-6543"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php:35
+msgid "Monday"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php:35
+msgid "- Friday: 9:00 AM - 6:00 PM (EST)"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php:39
+msgid "Saturday"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php:39
+msgid ": 10:00 AM - 4:00 PM (EST)"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php:43
+msgid "Sunday"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php:43
+msgid ": Closed"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php:52
+msgid "General Inquiries:"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php:52
+msgid "info@gadgetry.com"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php:56
+msgid "Customer Support"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php:56
+msgid ": support@gadgetry.com"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php:64
+msgid "Gadgetry Tech Store"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php:68
+msgid "123 G Street"
+msgstr ""
+
+#: patterns/page-contact-type-1-style-1.php:72
+msgid "Gameville, State, 111, USA"
+msgstr ""
+
+#: patterns/page-header-product-search-results.php
+msgctxt "Pattern title"
+msgid "Archive Page Header"
+msgstr ""
+
+#: patterns/page-header.php
+msgctxt "Pattern title"
+msgid "Page Header"
+msgstr ""
+
+#: patterns/page-home-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "Home Default (T1S1)"
+msgstr ""
+
+#: patterns/page-home-type-2-style-1.php
+msgctxt "Pattern title"
+msgid "Home-2 (T2S1)"
+msgstr ""
+
+#: patterns/posts-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "Posts, 1 column"
+msgstr ""
+
+#: patterns/posts-type-1-style-1.php
+msgctxt "Pattern description"
+msgid "A list of posts, 1 column."
+msgstr ""
+
+#: patterns/posts-type-2-style-1.php
+msgctxt "Pattern title"
+msgid "Posts, 3 column"
+msgstr ""
+
+#: patterns/posts-type-2-style-1.php
+msgctxt "Pattern description"
+msgid "A list of posts, 3 column."
+msgstr ""
+
+#: patterns/product-catalog-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "Product Catalog (T1S1)"
+msgstr ""
+
+#: patterns/product-catalog-type-1-style-1.php:49
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/product-categories-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "Product Categories List (T1S1)"
+msgstr ""
+
+#: patterns/product-categories-type-1-style-1.php
+#: patterns/product-categories-type-1-style-2.php
+msgctxt "Pattern description"
+msgid "Category list in 8 columns."
+msgstr ""
+
+#: patterns/product-categories-type-1-style-1.php:26
+msgid "Camera"
+msgstr ""
+
+#: patterns/product-categories-type-1-style-1.php:40
+#: patterns/product-categories-type-1-style-2.php:40
+msgid "Video Games"
+msgstr ""
+
+#: patterns/product-categories-type-1-style-1.php:54
+#: patterns/product-categories-type-1-style-2.php:54
+msgid "Laptops & Tablets"
+msgstr ""
+
+#: patterns/product-categories-type-1-style-1.php:68
+#: patterns/product-categories-type-1-style-2.php:68
+msgid "Mobiles"
+msgstr ""
+
+#: patterns/product-categories-type-1-style-1.php:81
+#: patterns/product-categories-type-1-style-2.php:82
+msgid "Smart Watches"
+msgstr ""
+
+#: patterns/product-categories-type-1-style-1.php:95
+#: patterns/product-categories-type-1-style-2.php:96
+msgid "TV & Audios"
+msgstr ""
+
+#: patterns/product-categories-type-1-style-1.php:122
+msgid "Apple"
+msgstr ""
+
+#: patterns/product-categories-type-1-style-2.php
+msgctxt "Pattern title"
+msgid "Product Categories List (T1S2)"
+msgstr ""
+
+#: patterns/product-categories-type-1-style-2.php:26
+#: patterns/product-categories-type-2-style-1.php:26
+msgid "Cameras"
+msgstr ""
+
+#: patterns/product-categories-type-1-style-2.php:124
+msgid "Apples"
+msgstr ""
+
+#: patterns/product-categories-type-2-style-1.php
+msgctxt "Pattern title"
+msgid "Feature Categories List (T2S1)"
+msgstr ""
+
+#: patterns/product-categories-type-2-style-1.php
+msgctxt "Pattern description"
+msgid "Feature Category list in 2 columns."
+msgstr ""
+
+#: patterns/product-categories-type-2-style-1.php:46
+msgid "Smartphone & Tablets"
+msgstr ""
+
+#: patterns/product-categories-type-3-style-1.php
+msgctxt "Pattern title"
+msgid "Feature Categories List (T3S1)"
+msgstr ""
+
+#: patterns/product-categories-type-3-style-1.php
+msgctxt "Pattern description"
+msgid "Grid Feature Category list in 2 columns."
+msgstr ""
+
+#: patterns/product-categories-type-3-style-1.php:23
+msgid "sWatch"
+msgstr ""
+
+#: patterns/product-categories-type-3-style-1.php:45
+msgid "ePhone Pro"
+msgstr ""
+
+#: patterns/product-categories-type-3-style-1.php:67
+msgid "ZenX Laptop"
+msgstr ""
+
+#: patterns/product-collection-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "Products Collection (Newest T1S1)"
+msgstr ""
+
+#: patterns/product-collection-type-1-style-1.php:15
+#: patterns/product-collection-type-1-style-2.php:15
+msgid "Newest Products"
+msgstr ""
+
+#: patterns/product-collection-type-1-style-1.php:22
+#: patterns/product-collection-type-1-style-2.php:22
+msgid "Show All"
+msgstr ""
+
+#: patterns/product-collection-type-1-style-1.php:28
+#: patterns/product-collection-type-1-style-2.php:28
+msgid "Earphone"
+msgstr ""
+
+#: patterns/product-collection-type-1-style-1.php:34
+#: patterns/product-collection-type-1-style-2.php:34
+msgid "Mobile"
+msgstr ""
+
+#: patterns/product-collection-type-1-style-2.php
+msgctxt "Pattern title"
+msgid "Products Collection (Newest T1S2)"
+msgstr ""
+
+#: patterns/product-collection-type-2-style-1.php
+msgctxt "Pattern title"
+msgid "Products Collection (Best Selling T2S1)"
+msgstr ""
+
+#: patterns/product-collection-type-2-style-1.php:15
+#: patterns/product-collection-type-2-style-2.php:15
+#: patterns/product-collection-type-5-style-1.php:29
+msgid "Best Selling Products"
+msgstr ""
+
+#: patterns/product-collection-type-2-style-2.php
+msgctxt "Pattern title"
+msgid "Products Collection (Best Selling T2S2)"
+msgstr ""
+
+#: patterns/product-collection-type-3-style-1.php
+msgctxt "Pattern title"
+msgid "Products Collection (Top Rated T3S1)"
+msgstr ""
+
+#: patterns/product-collection-type-3-style-1.php:15
+#: patterns/product-collection-type-3-style-2.php:15
+msgid "Top Rated Products"
+msgstr ""
+
+#: patterns/product-collection-type-3-style-2.php
+msgctxt "Pattern title"
+msgid "Products Collection (Top Rated T3S2)"
+msgstr ""
+
+#: patterns/product-collection-type-4-style-1.php
+msgctxt "Pattern title"
+msgid "Products Collection (On Sale T4S1)"
+msgstr ""
+
+#: patterns/product-collection-type-4-style-1.php:15
+#: patterns/product-collection-type-4-style-2.php:15
+#: patterns/product-collection-type-5-style-1.php:19
+msgid "Products On Sale"
+msgstr ""
+
+#: patterns/product-collection-type-4-style-2.php
+msgctxt "Pattern title"
+msgid "Products Collection (On Sale T4S2)"
+msgstr ""
+
+#: patterns/product-collection-type-5-style-1.php
+msgctxt "Pattern title"
+msgid "Products Collection (2 Columns T5S1)"
+msgstr ""
+
+#: patterns/product-filter-sidebar.php
+msgctxt "Pattern title"
+msgid "Product Filters Sidebar"
+msgstr ""
+
+#: patterns/product-filter-sidebar.php
+msgctxt "Pattern description"
+msgid "Product filters sidebar with various filter options."
+msgstr ""
+
+#: patterns/product-filter-sidebar.php:16
+msgid "Filter"
+msgstr ""
+
+#: patterns/product-filter-sidebar.php:22
+msgid "Active filters"
+msgstr ""
+
+#: patterns/product-filter-sidebar.php:34
+msgid "Filter by price"
+msgstr ""
+
+#: patterns/product-filter-sidebar.php:48
+msgid "Filter by rating"
+msgstr ""
+
+#: patterns/product-filter-sidebar.php:60
+msgid "Filter by attribute"
+msgstr ""
+
+#: patterns/product-filter-sidebar.php:72
+msgid "Filter by stock status"
+msgstr ""
+
+#: patterns/product-search-results.php
+msgctxt "Pattern title"
+msgid "Product Search Results"
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr ""
+
+#: patterns/services-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "Offer Services (T1S1)"
+msgstr ""
+
+#: patterns/services-type-1-style-1.php
+msgctxt "Pattern description"
+msgid "Offer Service with backgournd image."
+msgstr ""
+
+#: patterns/services-type-1-style-1.php:20
+msgid "Find Your Perfect Laptop: Power & Portability"
+msgstr ""
+
+#: patterns/services-type-1-style-1.php:26
+msgid "MEGA DEAL"
+msgstr ""
+
+#: patterns/services-type-2-style-1.php
+msgctxt "Pattern title"
+msgid "Four Column with icon (T2S1)"
+msgstr ""
+
+#: patterns/services-type-2-style-1.php
+msgctxt "Pattern description"
+msgid "Service Process with four column and icons."
+msgstr ""
+
+#: patterns/services-type-2-style-1.php:28
+msgid "Free Shipping"
+msgstr ""
+
+#: patterns/services-type-2-style-1.php:32
+msgid "Orders above $200"
+msgstr ""
+
+#: patterns/services-type-2-style-1.php:50
+msgid "Money-back"
+msgstr ""
+
+#: patterns/services-type-2-style-1.php:54
+msgid "30 day Guarantee"
+msgstr ""
+
+#: patterns/services-type-2-style-1.php:72
+msgid "Premium Support"
+msgstr ""
+
+#: patterns/services-type-2-style-1.php:76
+msgid "Phone and email support"
+msgstr ""
+
+#: patterns/services-type-2-style-1.php:94
+msgid "Secure Payments"
+msgstr ""
+
+#: patterns/services-type-2-style-1.php:98
+msgid "Secured by Stripe"
+msgstr ""
+
+#: patterns/shop-layout-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "Shop (Full Width - No Sidebar) (T1S1)"
+msgstr ""
+
+#: patterns/shop-layout-type-2-style-1.php
+msgctxt "Pattern title"
+msgid "Shop (Left Sidebar) (T2S1)"
+msgstr ""
+
+#: patterns/shop-layout-type-2-style-2.php
+msgctxt "Pattern title"
+msgid "Shop (Right Sidebar) (T2S2)"
+msgstr ""
+
+#: patterns/sidebar-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "Sidebar (T1S1)"
+msgstr ""
+
+#: patterns/sidebar-type-1-style-1.php:23
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/sidebar-type-1-style-1.php:33
+msgid "Posts List"
+msgstr ""
+
+#: patterns/single-post.php
+msgctxt "Pattern title"
+msgid "Single Post"
+msgstr ""
+
+#: patterns/single-post.php:48
+msgid "Tags:"
+msgstr ""
+
+#: patterns/single-post.php:58
+msgid "Share:"
+msgstr ""
+
+#: patterns/single-product.php
+msgctxt "Pattern title"
+msgid "Single Product"
+msgstr ""
+
+#: patterns/single-product.php:89
+msgid "\tRelated Products"
+msgstr ""
+
+#: patterns/taxonomy-product-cat.php
+msgctxt "Pattern title"
+msgid "Taxonomy Product Cat"
+msgstr ""
+
+#: patterns/taxonomy-product-tag.php
+msgctxt "Pattern title"
+msgid "Taxonomy Product Tag"
+msgstr ""
+
+#: patterns/testimonials-type-1-style-1.php
+msgctxt "Pattern title"
+msgid "Testimonials (T1S1)"
+msgstr ""
+
+#: patterns/testimonials-type-1-style-1.php
+msgctxt "Pattern description"
+msgid "Single Testimonials."
+msgstr ""
+
+#: patterns/testimonials-type-1-style-1.php:16
+msgid "Great adventures deserve great sound. Choose a portable speaker that amplifies every moment, wherever life takes you."
+msgstr ""
+
+#: patterns/testimonials-type-1-style-1.php:20
+msgid "James Cooper"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Home Default (T1S1)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Home 2 (T2S1)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "About (T1S1)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Contact (T1S1)"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Primary 500"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Gray 1000"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Gray 900"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Gray 800"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Gray 500"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Gray 200"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Gray 100"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Warning 500"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Warning 100"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Error 500"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Error 100"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Info 500"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Info 100"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Success 500"
+msgstr ""
+
+#: theme.json
+msgctxt "Color name"
+msgid "Success 100"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "2"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "4"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "8"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "12"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "16"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "20"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "24"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "28"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "32"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "40"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "60"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "80"
+msgstr ""
+
+#: theme.json
+msgctxt "Space size name"
+msgid "120"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter Tight"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Archivo"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Josefin Sans"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Josefin Slab"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Playfair Display"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "4X Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "3X Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "2X Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "X Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "2X Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "3X Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "4X Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "5X Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
